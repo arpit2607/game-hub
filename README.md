@@ -1,6 +1,6 @@
 # Game Nexus
 
-[Vercel Application Link](https://game-nexus-umber.vercel.app/)
+[Vercel Application Link](https://game-nexus-umber.vercel.app)
 
 Game Nexus is a web application with curated collection of online games providing users with a hub to discover various games. This application features a clean and intuitive interface built with Vite.js and Chakra UI, ensuring smooth navigation and a responsive design. Integrated with the RAWG API, it allows users to explore different game genres, game platforms and view game ratings. Deployed on Vercel, ensuring fast load times and high performance.
 
